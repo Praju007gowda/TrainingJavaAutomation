@@ -21,13 +21,4 @@ public class sIandCICalculator {
 		System.out.println("Compound Interestis: "+cI);
 	}
 }
-//	private static char[] simpleInt(double deposit, float rI, int years) {
-//		double si =  (deposit * rI * years) / 100;
-//		System.out.println("Simple Interest is: "+si);
-//		return null;
-//	}
-//	private static double compInt(double deposit, float rI, int years) {
-//		return  deposit *(Math.pow((1 + rI / 100), years)-deposit);
-//
-//	}
-//}
+

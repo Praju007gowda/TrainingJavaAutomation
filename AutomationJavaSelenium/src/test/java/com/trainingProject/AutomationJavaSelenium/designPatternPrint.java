@@ -5,11 +5,9 @@ import java.util.Scanner;
 public class designPatternPrint {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub\
 		
 		Scanner scanner = new Scanner(System.in);
 
-        // Get the number of rows from the user
         System.out.println("Enter the number of rows needed to print the pattern ");
 
         int rows = scanner.nextInt();

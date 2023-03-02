@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class calculator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String operation;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Please enter the two numbers");

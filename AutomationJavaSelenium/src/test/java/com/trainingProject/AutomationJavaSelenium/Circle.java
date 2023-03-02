@@ -14,12 +14,10 @@ public class Circle {
 	 * 
 	 */
 	public Circle(String color) {
-		// TODO Auto-generated constructor stub
 		this.color=color;
 	}
 	
 	public Circle(String color,double radius) {
-		// TODO Auto-generated constructor stub
 		this.radius= radius;
 		this.color= color;
 	}

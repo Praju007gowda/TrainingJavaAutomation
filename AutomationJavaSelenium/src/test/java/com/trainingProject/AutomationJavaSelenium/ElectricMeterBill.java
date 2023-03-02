@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class ElectricMeterBill {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		double bill = 0.0;
 		Scanner sc = new Scanner(System.in);

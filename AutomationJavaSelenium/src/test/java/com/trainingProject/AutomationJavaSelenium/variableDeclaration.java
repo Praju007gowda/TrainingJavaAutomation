@@ -3,7 +3,6 @@ package com.trainingProject.AutomationJavaSelenium;
 public class variableDeclaration {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int num1 = 7,num2 = 24;
 		float deci = (float) 24.70;
 		String str = "Hello World!";
